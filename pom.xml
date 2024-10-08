@@ -59,7 +59,7 @@
     <sdk.antlr4.dir>${project.build.directory}/eforms-sdk/antlr4</sdk.antlr4.dir>
 
     <!-- Versions - eForms -->
-    <version.eforms-sdk-1>1.6.0</version.eforms-sdk-1>
+    <version.eforms-sdk-1>1.13.0</version.eforms-sdk-1>
     <version.eforms-sdk-2>2.0.0-alpha.1</version.eforms-sdk-2>
     <version.eforms-core>1.4.0</version.eforms-core>
 
